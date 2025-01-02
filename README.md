@@ -1,4 +1,4 @@
-<h1 align="center"><b>iGeoz Consulting </b></h1>
+<h1 align="center"><img src="https://github.com/iGeozConsulting/iGeozConsulting/blob/main/Ciervo_iGeoz-removebg-preview.png" width="150"><b>iGeoz Consulting </b><img src="https://github.com/iGeozConsulting/iGeozConsulting/blob/main/Ciervo_iGeoz-removebg-preview.png" width="150"></h1>
 
 <p align="center" > We´re iGeoz Consulting, a company focused in development solutions of geoscience using Artificial Intelligent </p>
 
